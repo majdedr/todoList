@@ -1,8 +1,7 @@
-
 export interface todoInterface {
-    task: object;
+  task: object;
 }
 
 export interface todoListInterface {
-    tasks: todoInterface[];
+  tasks: todoInterface[];
 }
